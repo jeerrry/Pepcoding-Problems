@@ -3,8 +3,8 @@ package org.practice.recursion_and_backtracking;
 import java.io.*;
 import java.util.*;
 
-public class Permutation_1 {
-    public static void permutations(int[] boxes, int ci, int ti){
+public class Permutations_1 {
+    public void permutations(int[] boxes, int ci, int ti){
         // write your code here
         if(ci > ti){
             System.out.println(Arrays.toString(boxes));
