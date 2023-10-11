@@ -1,7 +1,8 @@
 package org.practice.recursion_and_backtracking;
 
-import java.io.*;
-import java.util.*;
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+import java.util.Arrays;
 
 public class Permutations_1 {
     public void permutations(int[] boxes, int ci, int ti){
