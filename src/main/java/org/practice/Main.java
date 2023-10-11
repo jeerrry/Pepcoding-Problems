@@ -1,12 +1,16 @@
 package org.practice;
 
+import org.practice.recursion_and_backtracking.Permutations_2;
+
 import java.io.*;
 
 public class Main {
     public static void main(String[] args) throws Exception {
         var defaultStream = System.out;
+        System.setOut(new PrintStream("output.txt"));
 
         // Make Calls Here
+        Permutations_2.input();
 
         System.setOut(defaultStream);
         if (validateOutput()) {
