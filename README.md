@@ -208,7 +208,8 @@ mvn exec:java -Dexec.mainClass="org.practice.Main"
 
 *Unlock the power of bitwise operations!*
 
-- 🔧 [Basics Of Bit Manipulation](src/main/java/org/practice/bitmanipulation/BasicsOfBitManipulation.java)
+### 🔧 Fundamental Operations
+- 🔧 [Basics Of Bit Manipulation](src/main/java/org/practice/bitmanipulation/BasicsOfBitManipulation.java) - Core bitwise operations and techniques
 
 ---
 
